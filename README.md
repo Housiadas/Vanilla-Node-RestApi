@@ -1,5 +1,7 @@
 # Vanilla-Node-RestApi
 This is for learning purposes. In professional environments, we would use frameworks like Express in a production project.
+Implementing the CRUD operations on a JSON file, which contains products.
+
 ## Routes
 ```
 GET      /api/products
